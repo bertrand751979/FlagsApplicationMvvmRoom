@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_register_country"
+        android:title="Inscrivez votre pays"
+        android:icon="@drawable/ic_country"
+        ></item>
+
+    <item
+        android:id="@+id/nav_display"
+        android:title="Liste des pays"
+        android:icon="@drawable/ic_flags"
+        ></item>
+
+</menu>
