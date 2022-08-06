@@ -56,9 +56,7 @@ public class CountryRegisterFragment extends Fragment {
                         if (result.getResultCode() == RESULT_OK) {
                            setImageCapture(result);
                         }
-
                     }
-
                 });
 
     }
